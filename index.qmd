@@ -1,13 +1,17 @@
 ---
+title: Lauren Stiles 
+image: IMG_6094.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
 project: 
   type: website 
   output-dir: docs
 ---
 
-This is a Quarto website.
+Thanks for checking out my page! This website is all about me...my education, experience, and interests. Please contact me if you have any questions. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+**Education**
+BS in Environmental Studies (2023)
+University of California, Santa Barbara 
