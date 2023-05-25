@@ -1,13 +1,15 @@
 ---
-title: Lauren Stiles 
+title: "Lauren Stiles" 
 image: IMG_6094.jpg
 about: 
-  template: trestles
-  image-shape: round
+  template: jolla
+  image-shape: rounded
   image-width: 23em
-project: 
-  type: website 
-  output-dir: docs
+  links: 
+   - text: Email 
+     href: mailto:laurenstiles@ucsb.edu
+   - text: GitHub
+     href: https://github.com/laurenstiles
 ---
 
 Thanks for checking out my page! This website is all about me...my education, experience, and interests. Please contact me if you have any questions. 

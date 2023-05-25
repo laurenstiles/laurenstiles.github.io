@@ -1,19 +1,17 @@
-project:
+project: 
   type: website
-
+  output-dir: docs
+  
 website:
-  title: "laurenstiles.github.io"
-  navbar:
-    left:
+  title: "Lauren Stiles"
+  navbar: 
+    left: 
       - href: index.qmd
-        text: Home
+        text: Home 
       - about.qmd
-
-format:
-  html:
-    theme: cosmo
+      
+format: 
+  html: 
+    theme: solar 
     css: styles.css
-    toc: true
-
-editor: visual
-
+    toc: true 
