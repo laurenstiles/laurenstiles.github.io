@@ -1,0 +1,11 @@
+---
+title: "What I do for fun"
+editor: visual
+image: IMG_8769.jpg
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 23em
+---
+
+In my free time, you can catch me reading novels (informational books are strictly for *after* graduation), cooking with my friends, doing yoga, or taking a long run or walk along the beach. You might also find me practicing violin...OR watching a movie with my housemates.

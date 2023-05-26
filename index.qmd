@@ -3,7 +3,7 @@ title: "Lauren Stiles"
 image: IMG_6094.jpg
 about: 
   template: jolla
-  image-shape: rounded
+  image-shape: round
   image-width: 23em
   links: 
    - text: Email 
@@ -12,8 +12,5 @@ about:
      href: https://github.com/laurenstiles
 ---
 
-Thanks for checking out my page! This website is all about me...my education, experience, and interests. Please contact me if you have any questions. 
+Thanks for checking out my page! This website is all about me... I am a student at the University of California, Santa Barbara (graduating 2023) studying environmental studies with an emphasis in marine ecology and conservation. Feel free to check out my academic interests and hobbies on this site. Please contact me at one of the links below for any inquiries. 
 
-**Education**
-BS in Environmental Studies (2023)
-University of California, Santa Barbara 

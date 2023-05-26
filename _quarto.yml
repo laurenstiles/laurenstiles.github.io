@@ -8,10 +8,15 @@ website:
     left: 
       - href: index.qmd
         text: Home 
-      - about.qmd
+      - href: Ecological interests.qmd
+        text: Ecology
+      - href: Fun.qmd
+        text: Fun
       
 format: 
   html: 
-    theme: solar 
-    css: styles.css
+    theme:  
+      - mystyles.scss
+    mainfont: Courier Prime
     toc: true 
+    page-layout: full

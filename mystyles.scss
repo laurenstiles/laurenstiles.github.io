@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+// Colors
+$yellow: #FEFFE9;
+$dark-sage-green: #8AC89C;
+$cream: #FDFBF7;
+$light-blue: #D0F0FF;
+$brown: #77500C;
+$purple: #F62EFD;
+
+// Base document colors
+$navbar-bg: $light-blue; // navbar
+$navbar-fg: $purple; // navbar foreground elements
+$navbar-hl: $purple; // highlight color when hovering over navbar links
+$body-bg: $yellow; // page background 
+$body-color: $brown; // page text 
+$footer-bg: $brown; // footer 
+$link-color: $light-blue; // hyperlinks 
+
+// Inline code
+$code-bg: $dark-sage-green; // inline code background color
+$code-color: $purple; // inline code text color
+
+// Code blocks
+$code-block-bg: $dark-sage-green; // code block background color
+
+
